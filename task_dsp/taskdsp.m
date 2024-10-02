@@ -1,7 +1,3 @@
-%Dsp Assignment 
-%ايمان احمد الدغوشى محمد شحاته
-%id : 20208057
-%Group :2
 %Medical Informatics
 function ecg_gui()
     % Create the GUI
